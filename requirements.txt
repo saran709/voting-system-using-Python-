@@ -1,0 +1,11 @@
+# Code created by https://linktr.ee/saran709
+# Requirements for Offline Voting System
+# No additional packages needed - using built-in Python libraries
+# - sqlite3 (built-in)
+# - tkinter (built-in with Python)
+# - datetime (built-in)
+# - hashlib (built-in)
+
+# If you want to add more features later, you might consider:
+# pandas==1.5.3
+# matplotlib==3.6.3
